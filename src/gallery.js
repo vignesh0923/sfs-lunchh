@@ -273,246 +273,258 @@ export const Gallerydata = [
     {
         id:55,
         title:"Videos",
-        video:"https:./Gallery_images/./Gallery_images/www.youtube.com./Gallery_images/embed./Gallery_images/KO4gX6sa-hM?si=j98h3OS-LHS30x8B",
+        video:"https://www.youtube.com/embed/KO4gX6sa-hM?si=mUXx2qv5mOfdrQJB",
         description:"Promo for Desalite Jubilates 2.0 Anual Day - Feb 10 2024"
     },
     {
         id:56,
         title:"Videos",
-        video:"https:./Gallery_images/./Gallery_images/www.youtube.com./Gallery_images/embed./Gallery_images/ZciVR9F2heY?si=9BCXP0Mi_m6K7F62",
+        video:"https://www.youtube.com/embed/ZciVR9F2heY?si=VGWOT_UxvKhIzD3I",
         description:"Birthday of Fr. Thadews MSFS"
     },
     {
         id:57,
         title:"Videos",
-        video:"https:./Gallery_images/./Gallery_images/www.youtube.com./Gallery_images/embed./Gallery_images/_urX5SImfaM?si=GVgcddw3oqh2fvBz",
+        video:"https://www.youtube.com/embed/TdvdfOqL0ng?si=6R4q50YpHw8ooXWw",
         description:"Celebration of Examination A motivational talk by Dr. Dhamu Part 1"
     },
     {
         id:58,
         title:"Videos",
-        video:"https:./Gallery_images/./Gallery_images/www.youtube.com./Gallery_images/embed./Gallery_images/DUjT6FDde-8?si=Go2Lghe10M2pgrs",
+        video:"https://www.youtube.com/embed/DUjT6FDde-8?si=qV_VyTAAm0EsWvpu",
         description:"Mariya III STD  Educational Tour  SFS Matric School"
     },
     {
         id:59,
         title:"Videos",
-        video:"https:./Gallery_images/./Gallery_images/www.youtube.com./Gallery_images/embed./Gallery_images/lYZukQA4f-Q?si=dRr-adUeRBQhfkiD ",
+        video:"https://www.youtube.com/embed/lYZukQA4f-Q?si=7SJ0G8vj2HpYsvFP",
         description:"Christmas Celebration at SFS School"
     },
     {
         id:60,
         title:"Videos",
-        video:"https:./Gallery_images/./Gallery_images/www.youtube.com./Gallery_images/embed./Gallery_images/U4LJgFlVnfc?si=6OJhFvkkqYzQlCd5",
-        description:"S.F.S School"
+        video:"https://www.youtube.com/embed/mJ5rKpw1Ghk?si=n1-0y0MZnYonX9ug",
+        description:"Speech in English on unity in diversity"
     },
     {
         id:61,
-        title:"Book Free Friday",
-        image:"./Gallery_images/bookfr1.jpeg",
+        title:"Videos",
+        video:"https://www.youtube.com/embed/7BqIVAG6_jw?si=7oIqRZ4T95_B5R8q",
+        description:"Desalite jubilates 2.0 / Annual day part II"
     },
     {
         id:62,
-        title:"Book Free Friday",
-        image:"./Gallery_images/bookfr2.jpeg",
+        title:"Videos",
+        video:"https://www.youtube.com/embed/JmT1mbXN_fc?si=VmWnoqqZ5oE4Z10L",
+        description:"DESALITE JUBILATES 2.0 / Anuual Day Part I"
     },
     {
         id:63,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr3.jpeg",
+        image:"./Gallery_images/bookfr1.jpeg",
     },
     {
         id:64,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr4.jpeg",
+        image:"./Gallery_images/bookfr2.jpeg",
     },
     {
         id:65,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr5.jpeg",
+        image:"./Gallery_images/bookfr3.jpeg",
     },
     {
         id:66,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr6.jpeg",
+        image:"./Gallery_images/bookfr4.jpeg",
     },
     {
         id:67,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr7.jpeg",
+        image:"./Gallery_images/bookfr5.jpeg",
     },
     {
         id:68,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr8.jpeg",
+        image:"./Gallery_images/bookfr6.jpeg",
     },
     {
         id:69,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr9.jpeg",
+        image:"./Gallery_images/bookfr7.jpeg",
     },
     {
         id:70,
         title:"Book Free Friday",
-        image:"./Gallery_images/bookfr10.jpeg",
+        image:"./Gallery_images/bookfr8.jpeg",
     },
     {
         id:71,
+        title:"Book Free Friday",
+        image:"./Gallery_images/bookfr9.jpeg",
+    },
+    {
+        id:72,
+        title:"Book Free Friday",
+        image:"./Gallery_images/bookfr10.jpeg",
+    },
+    {
+        id:73,
         title:"Award For Spoken English",
         image:"./Gallery_images/sp1.jpeg",
     },
     {
-        id:72,
+        id:74,
         title:"Award For Spoken English",
         image:"./Gallery_images/sp2.jpeg",
     },
 
     {
-        id:73,
+        id:75,
         title:"Award For Spoken English",
         image:"./Gallery_images/sp3.jpeg",
     },
 
     {
-        id:74,
+        id:76,
         title:"Award For Spoken English",
         image:"./Gallery_images/sp4.jpeg",
     },
 
     {
-        id:75,
+        id:77,
         title:"Award For Spoken English",
         image:"./Gallery_images/sp5.jpeg",
     },
 
     {
-        id:76,
+        id:78,
         title:"Award For Spoken English",
         image:"./Gallery_images/sp6.jpeg",
     },
 
     {
-        id:77,
+        id:79,
         title:"Award For Spoken English",
         image:"./Gallery_images/sp7.jpeg",
     },
     {
-        id:78,
+        id:80,
         title:"VII Class Day",
         image:"./Gallery_images/7cld1.JPG",
     },
     {
-        id:79,
+        id:81,
         title:"VII Class Day",
         image:"./Gallery_images/7cld2.JPG",
     },
     {
-        id:80,
+        id:82,
         title:"VII Class Day",
         image:"./Gallery_images/7cld3.JPG",
     },
     {
-        id:81,
+        id:83,
         title:"VII Class Day",
         image:"./Gallery_images/7cld4.JPG",
     },
     {
-        id:82,
+        id:84,
         title:"VII Class Day",
         image:"./Gallery_images/7cld5.JPG",
     },
     {
-        id:83,
+        id:85,
         title:"VII Class Day",
         image:"./Gallery_images/7cld6.JPG",
     },
     {
-        id:84,
+        id:86,
         title:"VII Class Day",
         image:"./Gallery_images/7cld7.JPG",
     },
     {
-        id:85,
+        id:87,
         title:"VI Class Day",
         image:"./Gallery_images/clss1.JPG",
     },
     {
-        id:86,
+        id:88,
         title:"VI Class Day",
         image:"./Gallery_images/clss2.JPG",
     },
     {
-        id:87,
+        id:89,
         title:"VI Class Day",
         image:"./Gallery_images/clss3.JPG",
     },
     {
-        id:88,
+        id:90,
         title:"VI Class Day",
         image:"./Gallery_images/clss4.JPG",
     },
     {
-        id:89,
+        id:91,
         title:"VI Class Day",
         image:"./Gallery_images/clss5.JPG",
     },
     {
-        id:90,
+        id:92,
         title:"Yellow Day",
         image:"./Gallery_images/yel1.JPG",
     },
     {
-        id:91,
+        id:93,
         title:"Yellow Day",
         image:"./Gallery_images/yel2.JPG",
     },
     {
-        id:92,
+        id:94,
         title:"Yellow Day",
         image:"./Gallery_images/yel3.JPG",
     },
     {
-        id:93,
+        id:95,
         title:"Yellow Day",
         image:"./Gallery_images/yel4.JPG",
     },
     {
-        id:94,
+        id:96,
         title:"Yellow Day",
         image:"./Gallery_images/yel5.JPG",
     },
     {
-        id:95,
+        id:97,
         title:"Tamil Department Day",
         image:"./Gallery_images/td1.JPG",
     },
     {
-        id:96,
+        id:98,
         title:"Tamil Department Day",
         image:"./Gallery_images/td2.JPG",
     },
     {
-        id:97,
+        id:99,
         title:"Tamil Department Day",
         image:"./Gallery_images/td3.JPG",
     },
     {
-        id:98,
+        id:100,
         title:"Tamil Department Day",
         image:"./Gallery_images/td4.JPG",
     },
     {
-        id:99,
+        id:101,
         title:"Tamil Department Day",
         image:"./Gallery_images/td5.JPG",
     },
     {
-        id:100,
+        id:102,
         title:"Tamil Department Day",
         image:"./Gallery_images/td6.JPG",
     },
     {
-        id:101,
+        id:103,
         title:"Tamil Department Day",
         image:"./Gallery_images/td7.JPG",
     },

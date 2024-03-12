@@ -12,7 +12,7 @@ const Conact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    const phoneNumber = form.current.user_email.value.trim();
+    const phoneNumber = form.current.user_call.value.trim(); // Corrected the field name to user_phone
 
     // Check if the phone number is exactly 10 digits
     if (!/^\d{10}$/.test(phoneNumber)) {
@@ -72,14 +72,14 @@ const Conact = () => {
             </label>
           </div>
           <div class="input-2">
-            <input type="number" id="number" name="user_phone" required />
+            <input type="number" id="number" name="user_call" required />
             <label for="number" class="number">
               Number *
             </label>
           </div>
         </div>
         <div className="textarea">
-          <textarea rows={6} placeholder="Text Your Message *"  name="user_essage" required></textarea>
+          <textarea rows={6} placeholder="Text Your Message *"  name="user_msg" required></textarea>
         </div>
         <input type="submit" value="Send" className="butt"/>
       </form>

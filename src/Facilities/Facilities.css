@@ -124,7 +124,7 @@
   }
   .faci .secondd {
     flex-direction: column;
-    min-width: 380px;
+    min-width: 320px;
     max-height: 610px;
     gap: 10px;
   }

@@ -4,20 +4,20 @@ export const event =[
       "title": "Class Day",
       "content": "Class day celebrations are pivotal events where students can reveal their latent talents, spanning various domains. They offer a platform for every student to step into the limelight and unveil their unique abilities. At SFS, we ardently believe in nurturing our students' potential and providing them with opportunities to shine. These celebrations embody inclusivity, encouraging students to explore and showcase their hidden talents, fostering a vibrant atmosphere of creativity and self-expression. We recognize the wealth of untapped potential within our young learners and strive to empower them to unleash their brilliance. Through class day celebrations, students can inspire one another, creating a supportive community where each individual's talents are celebrated and valued. It's a momentous occasion where the school comes together to witness the magic of our students' creativity and passion, leaving a lasting impact on all who attend.",
       "image" :"./images/classday2.JPG",
-      "heading": "28th October 2024"
+      "heading": "19th August 2023"
     },
     {
       "title": "Desalite Jubalates Annual Day",
       "content": "The Desalite Jubalates Annual Day is a highly anticipated event within our school community, serving as a grand celebration of talent and achievement. It provides students with a platform to showcase their diverse skills and abilities, from mesmerizing musical performances to captivating theatrical productions. Months of preparation and dedication culminate in a night filled with entertainment, laughter, and shared moments of pride. As students take center stage, supported by their teachers, parents, and peers, the auditorium comes alive with energy and excitement. The Annual Day not only highlights the individual talents of our students but also fosters a sense of unity and camaraderie within our school family. It's a time for celebration, inspiration, and the creation of cherished memories that will last a lifetime.",
       "image": "./images/desalite1.jpg",
-      "heading": "23rd January 2024"
+      "heading": "26th August 2023"
     },
     {
       "title": "Desalite Jubalates2.0",
       "content": "The Desalite Jubilates 2.0 of SFS Matric Hr Sec School was celebrated on 10 Feb 2024.The program was scheduled to commence at 6:00pm and parents of all the students were invited. A huge stage was constructed with ample sitting space in the school ground for the function.",
       "content2":"The occasion was graced by Mr.Prabhakaran, The program was hosted by 6th & 7th class students. The performance was very impressive. First of all, students presented a welcome dance by welcoming the Chief guest, Guests of Honour, dignitaries and parents of the students The cultural event was set rolling by evoking the blessings of the Almighty through a prayer in the form of skit. It was an innovative idea which brought the glory of all the three religions at the same time. The students from various grades entertained the audience with the traditional dances of each state and their performances made everyone shake a leg! The choir mesmerized the audience and the dignitaries with beautiful melodic song. The breathtaking dramatic journey was mind-blowing. The spectacular grand finale dance paid homage to the mother language. The school invited the students who had excelled in academics and cent percent attendance to come up on the stage. The Chief Guest and Guest of Honour handed out certificate and prizes to those students. The event ended with a vote of thanks by SPL and ASPL of our school. The bedazzling and magnificent spectacle left the audience spellbound carving for more. The Desalite Jubilates 2.0 not only enchanted all but it also brought to the fore the latent talent of students which have been unlocked in this attempt.",
       "image": "./images/desalite4.jpg",
-      "heading": "10th February 2024"
+      "heading": "10th February 2023"
     },
     {
       "title": "Yellow Day",
@@ -30,31 +30,18 @@ export const event =[
       "title": "Plastic Awareness Rally",
       "content": "The students of SFS recently organized a rally under the theme Say No to Plastic, demonstrating their commitment to environmental awareness and sustainability. The primary objective of this rally was to educate the community about the detrimental impacts of plastic usage while promoting the adoption of eco-friendly alternatives. With fervent enthusiasm, students marched through the streets, carrying banners and placards advocating for the reduction of plastic consumption. They passionately highlighted the environmental pollution caused by plastic waste, emphasizing the urgency of adopting more sustainable practices. Additionally, students educated the public on the benefits of biodegradable products, showcasing the positive impact they can have on reducing pollution and protecting our planet. The rally served as a powerful platform for students to raise awareness and inspire positive change within their community. Their wholehearted participation reflected their genuine concern for the environment and their enthusiasm for making a difference. Through this activity, students not only gained valuable knowledge about environmental issues but also experienced the satisfaction of actively contributing to a cause they believe in. As they engaged in this meaningful endeavor, students forged bonds of camaraderie and teamwork, united by their shared commitment to environmental conservation. The success of the rally underscored the importance of youth-led initiatives in driving positive social and environmental change. Moving forward, the students of SFS remain dedicated to promoting sustainable practices and advocating for a cleaner, greener future.",
       "image": "./images/plastic9.jpg",
-      "heading": "23rd January 2024"
-    },
-    {
-      "title": "Spoken English Special Traing",
-      "content": "Although English language doesn't have the largest number of native speakers in the world, it has the widest reach of any language spoken today. For both native and second language speakers of every continent, English has become the official language in many fields. SFS has initiated spoken English programmed to facilitate learning English in a way to get access to a broader range of information, connections and opportunities.",
-      "image": "./images/",
-      "heading": "23rd January 2024"
+      "heading": "3rd July 2023"
     },
     {
       "title": "Seminar",
       "content": 'Teachers are the perpetual learners, understanding that staying updated is paramount for success, particularly in the dynamic field of education. At our institution, educators are dedicated to continuous improvement, actively participating in seminars and orientation classes aimed at enhancing their teaching prowess. Additionally, our teachers engage in subject-specific seminars, ensuring they possess in-depth knowledge and expertise in their respective fields. Recognizing the importance of motivation in the learning process, our institution also organizes motivational seminars for students. One notable event was the "Celebration of Examination," a motivational seminar led by Dr. Dhamu, a respected film actor and disciple of Dr. APJ Abdul Kalam. This seminar aimed to inspire students to approach examinations with confidence and resilience, emphasizing the importance of perseverance and self-belief in achieving academic success. Through such initiatives, both teachers and students are empowered to strive for excellence, fostering a culture of continuous learning and growth within our educational community.',
       "image": "./images/damu1.jpg",
-      "heading": "23rd January 2024"
-    },
-    {
-      "title": "Freinds of Fransalians",
-      "content": "We learn to serve Mahatma Gandhi believed The best way to find yourself is to lose yourself in the service of others. So to inculcate the values of integrity, brother hood, self- discipline and to expand our-self as an awakened citizen of our nation my SFS started FOF. Scout and Red cross in our school to help the students who are in need.",
-      "image": "./images/",
-      "heading": "23rd January 2024"
+      "heading": "06 December 2023"
     },
     {
       "title": "J.R.C & Scout",
       "content": "At our institution, we firmly embrace Mahatma Gandhi's philosophy that serving others is the true path to self-discovery. In line with this belief, we have initiated the formation of FOF (Friends of the Future), Scout, and Red Cross programs within our school community. These initiatives aim to instill values of integrity, brotherhood, and self-discipline among our students while nurturing them to become enlightened citizens of our nation. Through participation in these programs, students not only learn the importance of empathy and compassion but also develop essential life skills such as leadership, teamwork, and problem-solving. The FOF program fosters a sense of social responsibility, encouraging students to actively engage in community service activities and contribute positively to society. Similarly, involvement in Scout and Red Cross activities provides students with opportunities to learn first aid, disaster management, and other valuable skills that enable them to assist those in need. By participating in these programs, students not only enrich their own lives but also make meaningful contributions to the welfare of others, embodying the spirit of service that Mahatma Gandhi advocated. Through FOF, Scout, and Red Cross, our school endeavors to nurture compassionate and socially responsible individuals who are empowered to make a positive difference in the world.",
       "image": "./images/plastic3.jpg",
-      "heading": "23rd January 2024"
     },
       {
         "title": "Best Student of The Month",
@@ -82,20 +69,19 @@ export const event =[
         "content": "Innovation serves as the catalyst for transformative change, unlocking novel value and driving continual improvement and success. At SFS, a steadfast commitment to innovation permeates every aspect of our institution, as we continually integrate the latest practices across all fields. In response to the imperative of enhancing the education system for our students, SFS School undergoes a multitude of changes, spanning from teaching methodologies to curriculum design. Embracing the burgeoning realm of Artificial Intelligence (AI), our school proudly incorporates this cutting-edge technology into its educational framework. AI represents a burgeoning force that is revolutionizing various industries globally, and SFS School is at the forefront of this transformation by integrating AI into its educational curriculum.",
         "content2":"Artificial Intelligence in Education offers a spectrum of innovative solutions tailored to diverse teaching and learning contexts. By leveraging computer intelligence, AI empowers educators and students alike, enhancing the effectiveness and efficiency of the education system. Through AI-driven tools and platforms, teachers gain access to valuable insights and resources, enabling personalized learning experiences and optimizing instructional strategies. Simultaneously, students benefit from AI-powered educational resources that adapt to individual learning styles, fostering deeper engagement and comprehension. This strategic integration of AI into our educational curriculum underscores SFS School's unwavering commitment to staying at the vanguard of educational innovation, ensuring that our students are equipped with the skills and knowledge to thrive in an ever-evolving world.",
         "image": "./images/AI2.bmp",
-        "heading": "23rd January 2024"
       },
       {
         "title": "Christmas Celebration",
         "content": "The school was engulfed in festive cheer as the spirit of Christmas filled the air, with colorful stars and trees adorning every corner. Christmas, a celebration of joy and love, brought the entire school community together in a spirit of warmth and goodwill. Honorable Minister Thiru. V. Meyyanathan (MLA) graced the occasion as the chief guest, imparting a message of caring and sharing to all present. His words resonated with the true essence of Christmas, reminding everyone of the importance of compassion and generosity towards others. As the school radiated with the festive spirit, the message of love and togetherness echoed throughout, fostering a sense of unity and harmony among students, staff, and guests alike.",
         "image": "./images/chrit3.jpg",
-        "heading": "23rd January 2024"
+        "heading": "14th November 2022"
       },
       {
         "title": "Kamarajar Day",
         "content": "On the 1st of July 2023, Tamil Pepertunts observed the joyous celebration of Kamarajar Day, marking the occasion with cultural enthusiasm and pride. Various competitions were organized, each highlighting the profound importance of the Tamil language. Students actively participated, showcasing their linguistic talents and cultural awareness in a series of engaging events.",
         "content2":"The day reached its pinnacle with the vibrant Yellow Day festivities, where participants were not only recognized for their outstanding contributions but also rewarded with prizes. Adding to the grandeur of the occasion, the esteemed Chef Guest, Miss RAGAVI, lent her presence and expertise, elevating the celebration and leaving an indelible mark on the collective spirit of the community. This fusion of cultural programs, linguistic significance, and recognition underscored the commitment to preserving and celebrating the rich heritage of Tamil language and culture.",
         "image": "./images/kam1.jpg",
-        "heading": "23rd January 2024"
+        "heading": "15th July 2024"
       },
       {
         "title": "Sports Day",

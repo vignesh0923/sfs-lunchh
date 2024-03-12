@@ -118,13 +118,18 @@
   .list > ul {
     display: none;
   }
+
+  .list ul li {
+    font-size: 10px;
+    text-wrap: nowrap;
+  }
+
 }
 
 .side-nav {
-  width: 80%;
+  width: 69%;
   height: 100vh;
   background: #061e54;
-
   padding: 10px;
   color: white;
   display: flex;
