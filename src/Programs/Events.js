@@ -262,12 +262,12 @@ function Events(props) {
           <div className="cards">
             <img src={sprts} alt="..." />
             <div className="card-body">
-              <h3 className="card-title">Sports Day</h3>
+              <h3 className="card-title">Sports & Games</h3>
               <p className="card-text">
                 Students have to participate in school sports to increase
                 confidence, mental alertness, and self-esteem.
               </p>
-              <button onClick={() => eve("Sports Day")}>
+              <button onClick={() => eve("Sports & Games")}>
                 <span>Read More</span> <BsArrowUpRightCircle className="read" />
               </button>
             </div>

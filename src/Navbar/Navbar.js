@@ -36,7 +36,7 @@ function Navbar() {
           <li onClick={()=> navigate("/Gallerys")}>Gallery</li>
           <li onClick={()=> navigate("/onlinepayments")}>Online Payments</li>
           <li onClick={()=> navigate("/Sports")}>Our Achivements</li>
-          <li onClick={()=> navigate("/Achivements")}>Our Aluminies</li>
+          <li onClick={()=> navigate("/Achivements")}>Our Alumni</li>
           <li onClick={()=> navigate("/Contact")}>Contact Us</li>
         </ul>
       </div>
@@ -67,7 +67,7 @@ function Navbar() {
           <li onClick={()=> navigate("/Gallerys")}>Gallery</li>
           <li onClick={()=> navigate("/onlinepayments")}>Online Payments</li>
           <li onClick={()=> navigate("/Sports")}>Our Achivements</li>
-          <li onClick={()=> navigate("/Achivements")}>Our Aluminies</li>
+          <li onClick={()=> navigate("/Achivements")}>Our Alumni</li>
           <li onClick={()=> navigate("/Contact")}>Contact Us</li>
           </ul>
         </div>

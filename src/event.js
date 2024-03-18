@@ -84,10 +84,9 @@ export const event =[
         "heading": "15th July 2024"
       },
       {
-        "title": "Sports Day",
-        "content": "Sports develop the physical as well as mental strength in students SFS provides daily physical exercise for students because exercise not only helps students to stay healthy, but it also helps to improve their emotional fitness. In SFS sports is a major part of the school curriculum because if students stay emotionally and physically healthy, they can easily focus on their studies. Students have to participate in school sports to increase confidence, mental alertness, and self-esteem. Sports is important in schools because it helps to teach various skills to students like leadership, patience, team efforts, and social skills. Here we are discussing some benefits of the importance of sports in Schools",
+        "title": "Sports & Games",
+        "content": "Our school provides various sports and games options such as cricket, football, basketball, table tennis, badminton, and athletics. We organize inter-house and inter-school competitions to promote teamwork and healthy competition. Our sports teachers and coaches offer guidance and training, helping students develop physically, mentally, socially, and emotionally.Participation in games is crucial for a student's development, offering a range of benefits beyond physical fitness. It promotes mental well-being by reducing stress and enhancing cognitive function. Additionally, it fosters important life skills such as teamwork, leadership, discipline, and resilience. Games also improve social interaction and students' holistic growth.",
         "image": "./images/sprts2.JPG",
-        "heading": "23rd January 2024"
       },
       {
         "title": "Kindergarten Inagural Day",
